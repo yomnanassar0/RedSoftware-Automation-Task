@@ -31,7 +31,7 @@ npm install
 
 To execute the test cases, use the following commands:
 
-### Run All Tests  
+### Test Execution 
 1- Run all feature files:  
 npx wdio wdio.conf.js
 
