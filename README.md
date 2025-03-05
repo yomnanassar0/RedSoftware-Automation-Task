@@ -33,12 +33,12 @@ To execute the test cases, use the following commands:
 
 ### Test Execution 
 1- Run all feature files:  
-- **npx wdio wdio.conf.js
+- npx wdio wdio.conf.js
 
 2- Run specific feature file:  
-- **npx wdio wdio.conf.js --spec ./features/your-feature-file.feature
+- npx wdio wdio.conf.js --spec ./features/your-feature-file.feature
 
 ### Generating a report 
-- **allure generate allure-results --clean
-- **allure open
+- allure generate allure-results --clean
+- allure open
 
