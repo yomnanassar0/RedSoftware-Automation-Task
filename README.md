@@ -6,7 +6,7 @@ This project automates the testing of an **e-commerce platform** using **Webdriv
 
 ##  Setup Instructions
 
-### **1️Install Dependencies**
+### ** Install Dependencies**
 Ensure **Node.js** is installed, then run:
 
 npm install
