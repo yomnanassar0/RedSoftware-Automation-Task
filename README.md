@@ -29,7 +29,7 @@ npm install
 
 ## Running Tests
 
-To execute the test cases using **WebdriverIO & Cucumber**, use the following commands:
+To execute the test cases, use the following commands:
 
 ### Run All Tests  
 1- Run all feature files:  
