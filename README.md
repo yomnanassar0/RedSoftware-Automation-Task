@@ -27,3 +27,18 @@ npm install
 - **Successful Checkout**: Validate checkout with valid shipping & payment details.
 - **Validation for Empty Checkout Form**: Ensure users cannot proceed with missing details.
 
+## Running Tests
+
+To execute the test cases using **WebdriverIO & Cucumber**, use the following commands:
+
+### Run All Tests  
+1- Run all feature files:  
+npx wdio wdio.conf.js
+
+2- Run specific feature file:  
+npx wdio wdio.conf.js --spec ./features/your-feature-file.feature
+
+### Generating a report 
+allure generate allure-results --clean
+allure open
+
