@@ -13,6 +13,8 @@ npm install
 
 ## Test Scenarios Covered
 
+### use case file is uploaded
+
 ### **Product Catalog**
 -  **View Product Categories**: Verify that selecting a category displays the correct subcategories.
 -  **View Product Details**: Ensure that clicking a product shows the correct details.
